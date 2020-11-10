@@ -12,4 +12,4 @@ Min redovisningssida för designkursen
 * [Kmom04](report/kmom04)
 * [Kmom05](report/kmom05)
 * [Kmom06](report/kmom06)
-* [Kmom 7- 10](report/kmom10)
+* [Kmom10](report/kmom10)

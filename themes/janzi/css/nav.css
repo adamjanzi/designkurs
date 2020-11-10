@@ -20,7 +20,7 @@
 }
 
 #nav {
-    padding: 3em 0;
+    padding: 1.5em 0;
     text-align: center;
 }
 
@@ -33,11 +33,13 @@
 #nav ul li {
     display: inline-block;
     margin-left: 1em;
-    padding: 0;
+    padding: 0.5em;
     font-weight: bold;
+    border-style: solid;
 }
 
-#nav a:hover, #nav-toggle:hover {
+#nav ul li:hover {
+    background-color: #7c919c;
     text-decoration: underline;
 }
 

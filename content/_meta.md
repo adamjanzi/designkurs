@@ -4,5 +4,5 @@ Tagline: My portfolio.
 Social:
     - title: Link till mitt github repo.
       url: https://github.com/adamjanzi/designkurs
-      icon: chevron-down
+      icon: github
 ---
