@@ -58,7 +58,153 @@ body {
     padding: 6em;
 }
 
+.kmom-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.kmom-container-grid {
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 100px 300px 300px 300px;
+}
+
+.wrapper-kmom {
+    max-width: 960px;
+    margin: 0 auto;
+    grid-template-columns: 300px 600px;
+    grid-template-rows: 100%;
+}
+
+.notchosen {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.chosen {
+    text-decoration: none;
+    color: rgb(160, 228, 233);
+    font-size: 180%;
+    font-weight: bold;
+}
+  
+.kmom-sidebar a:hover {
+    color: rgb(156, 199, 228);
+}
+
+.kmom-sidebar {
+    width: 27%;
+    background-color: $body-background-color;
+}
+
+.kmom-mainpage {
+    width: 70%;
+    background-color: $body-background-color;
+}
+
+.sidetitle {
+    grid-column: 1 / 4;
+    grid-row: 1 / 2;
+}
+
+.kmom-project h3 {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding: 1.2em;
+    background-color: rgb(97, 96, 96);
+    border-radius: 12px 12px 1px 1px;
+}
+
+.kmom-box h3 {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding: 1.2em;
+    background-color: rgb(97, 96, 96);
+    border-radius: 12px 12px 1px 1px;
+}
+
+.box1 {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.box2 {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.box3 {
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.box4 {
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.box5 {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.box6 {
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.kmom-project {
+    grid-column: 1 / 4;
+    grid-row: 4 / 5;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px 12px 1px 1px;
+    margin: 1.5em 0.2em;
+    position: relative;
+}
+
+.fa-chevron-circle-right {
+    margin: 0.3em;
+    font-size: 3rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.kmom-icon {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
+    width: 100%;
     margin-top: 0.7em;
     margin-bottom: 0.7em;
 }
@@ -68,6 +214,10 @@ p {
     padding: 1 0.5em;
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+.box-text {
+    margin-left: 0.5em;
 }
 
 .flash-region {
@@ -151,7 +301,7 @@ p {
 
 .nav ul li {
     display: inline-block;
-    margin-left: 1em;
+    margin: 0.2em;
     padding: 0.5em;
     font-weight: bold;
     border-style: solid;
@@ -164,4 +314,96 @@ p {
 
 .nav-toggle {
     display: none;
+}
+
+@media only screen and (max-device-width: 960px) {
+    .main {
+        flex: 1 0 auto;
+        padding: 1em;
+    }
+    
+    .kmom-container-grid {
+        display: grid;
+        justify-content: space-between;
+        grid-template-columns: 90%;
+        grid-template-rows: 100px 300px 300px 300px 300px 300px 300px 300px;
+    }
+
+    .sidetitle {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+    }
+
+    .box1 {
+        grid-column: 1 / 2;
+        grid-row: 2 / 3;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .box2 {
+        grid-column: 1 / 2;
+        grid-row: 3 / 4;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .box3 {
+        grid-column: 1 / 2;
+        grid-row: 4 / 5;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .box4 {
+        grid-column: 1 / 2;
+        grid-row: 5 / 6;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .box5 {
+        grid-column: 1 / 2;
+        grid-row: 6 / 7;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .box6 {
+        grid-column: 1 / 2;
+        grid-row: 7 / 8;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .kmom-project {
+        grid-column: 1 / 2;
+        grid-row: 8 / 9;
+        background-color: rgb(255, 255, 255);
+        border-radius: 12px 12px 1px 1px;
+        margin: 1.5em 0.2em;
+        position: relative;
+    }
+    
+    .kmom-sidebar {
+        display: none;
+    }
+    
+    .kmom-mainpage {
+        float: center;
+        width: 100%;
+        background-color: $body-background-color;
+    }
 }
