@@ -6462,7 +6462,7 @@ readers do not read off random characters that represent icons */
 }
 
 h1 {
-  color: #093b4e;
+  color: #b2d2e0;
   font-size: 300%;
   font-family: "Dotum", sans-serif;
 }
@@ -6472,7 +6472,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #0a475f;
+  color: #a4c6dd;
   font-family: "Dotum", sans-serif;
 }
 
@@ -6490,7 +6490,7 @@ h3 {
 }
 
 p {
-  color: #0e516b;
+  color: #a0c7e0;
   font-size: 110%;
   text-align: justify;
 }
@@ -6513,18 +6513,18 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  background: #fff;
+  background: #0d2e38;
 }
 
 .site-header {
   flex: 0 0 auto;
-  background: linear-gradient(#91cbe2, #fff);
-  color: #0b4e68;
+  background: linear-gradient(#010d11, #0d2e38);
+  color: #a4c6dd;
 }
 
 .site-header a,
 .site-header a:visited {
-  color: #0b4e68;
+  color: #a4c6dd;
   font-size: 1.4em;
   text-decoration: none;
   font-family: "Dotum", sans-serif;
@@ -6577,12 +6577,12 @@ body {
   text-decoration: none;
   font-size: 180%;
   font-weight: bold;
-  color: #a0e4e9;
+  color: #d3e7f3;
 }
 
 .sidebar-chosen:hover,
 .sidebar-notchosen:hover {
-  color: #91cbe2;
+  color: #c0dcee;
 }
 
 .kmom-sidebar {
@@ -6596,7 +6596,7 @@ body {
 
 .kmom-mainpage {
   width: 70%;
-  background-color: #fff;
+  background-color: #0d2e38;
 }
 
 .sidetitle {
@@ -6606,94 +6606,94 @@ body {
 
 .kmom-project h3 {
   text-align: left;
-  color: #093b4e;
+  color: #b2d2e0;
   padding: 1.2em;
-  background: linear-gradient(#628ca0, #91cbe2);
+  background: linear-gradient(#010d11, #0d2e38);
   border-radius: 12px;
 }
 
 .kmom-box h3 {
   text-align: left;
-  color: #093b4e;
+  color: #b2d2e0;
   padding: 1.2em;
-  background: linear-gradient(#628ca0, #91cbe2);
+  background: linear-gradient(#010d11, #0d2e38);
   border-radius: 12px;
 }
 
 .box1 {
   grid-column: 1/2;
   grid-row: 2/3;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .box2 {
   grid-column: 2/3;
   grid-row: 2/3;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .box3 {
   grid-column: 3/4;
   grid-row: 2/3;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .box4 {
   grid-column: 1/2;
   grid-row: 3/4;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .box5 {
   grid-column: 2/3;
   grid-row: 3/4;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .box6 {
   grid-column: 3/4;
   grid-row: 3/4;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
 .kmom-project {
   grid-column: 1/4;
   grid-row: 4/5;
-  background: linear-gradient(#91cbe2, #fff);
+  background: linear-gradient(#0d2e38, #0d2e38);
   border-radius: 12px;
   margin: 1.5em 0.2em;
   position: relative;
-  border-color: #85bacf;
+  border-color: #296177;
   border-style: groove;
 }
 
@@ -6703,11 +6703,11 @@ body {
   position: absolute;
   bottom: 0;
   right: 0;
-  color: #0b4e68;
+  color: #97c4e2;
 }
 
 .fa-chevron-circle-right:hover {
-  color: #91cbe2;
+  color: #2f82a8;
 }
 
 .kmom-icon {
@@ -6747,16 +6747,16 @@ p {
 }
 
 .footer {
-  background: linear-gradient(#fff, #91cbe2);
-  color: #115f7e;
+  background: linear-gradient(#0d2e38, #010d11);
+  color: #97c4e2;
 }
 
 .footer a {
-  color: #115f7e;
+  color: #97c4e2;
 }
 
 .footer a:hover {
-  color: #91cbe2;
+  color: #2f82a8;
 }
 
 .footer p {
@@ -6765,7 +6765,7 @@ p {
   margin-right: 2em;
   margin-left: 2em;
   padding: 3em 0;
-  color: #115f7e;
+  color: #97c4e2;
   font-size: 1rem;
 }
 
@@ -6788,7 +6788,7 @@ p {
 }
 
 .headersocial a:hover {
-  color: #91cbe2;
+  color: #2f82a8;
 }
 
 .hidden {
@@ -6832,7 +6832,7 @@ p {
 }
 
 .nav ul li:hover {
-  background-color: #91cbe2;
+  background-color: #1f4c61;
   text-decoration: none;
 }
 
@@ -6905,77 +6905,77 @@ p {
   .box1 {
     grid-column: 1/2;
     grid-row: 2/3;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .box2 {
     grid-column: 1/2;
     grid-row: 3/4;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .box3 {
     grid-column: 1/2;
     grid-row: 4/5;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .box4 {
     grid-column: 1/2;
     grid-row: 5/6;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .box5 {
     grid-column: 1/2;
     grid-row: 6/7;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .box6 {
     grid-column: 1/2;
     grid-row: 7/8;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
   .kmom-project {
     grid-column: 1/2;
     grid-row: 8/9;
-    background: linear-gradient(#91cbe2, #fff);
+    background: linear-gradient(#0d2e38, #0d2e38);
     border-radius: 12px;
     margin: 1.5em 0.2em;
     position: relative;
-    border-color: #85bacf;
+    border-color: #296177;
     border-style: groove;
   }
 
@@ -6986,7 +6986,7 @@ p {
   .kmom-mainpage {
     float: center;
     width: 100%;
-    background-color: #fff;
+    background-color: #0d2e38;
   }
 
   .headersocial {

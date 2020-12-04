@@ -14,4 +14,11 @@ Social:
     - title: Link till mitt bands Youtube.
       url: https://www.youtube.com/volaband
       icon: fab fa-youtube
+Headersocial:
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-moon
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash-alt
 ---

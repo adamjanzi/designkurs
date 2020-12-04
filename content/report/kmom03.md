@@ -5,17 +5,17 @@ Template: kmom
 
 <div class="kmom-container">
 <div class="kmom-sidebar">
-<a href="kmom01" class="notchosen"><p class="sidebar-choice">Kmom 1</p></a>  
-<a href="kmom02" class="notchosen"><p class="sidebar-choice">Kmom 2</p></a>  
-<a href="kmom03" class="chosen"><p class="sidebar-choice">Kmom 3</p></a>  
-<a href="kmom04" class="notchosen"><p class="sidebar-choice">Kmom 4</p></a>  
-<a href="kmom05" class="notchosen"><p class="sidebar-choice">Kmom 5</p></a>  
-<a href="kmom06" class="notchosen"><p class="sidebar-choice">Kmom 6</p></a>  
-<a href="kmom10" class="notchosen"><p class="sidebar-choice">Projekt</p></a>  
+<a href="kmom01"><p class="sidebar-notchosen">Kmom 1</p></a>  
+<a href="kmom02"><p class="sidebar-notchosen">Kmom 2</p></a>  
+<a href="kmom03"><p class="sidebar-chosen">Kmom 3</p></a>  
+<a href="kmom04"><p class="sidebar-notchosen">Kmom 4</p></a>  
+<a href="kmom05"><p class="sidebar-notchosen">Kmom 5</p></a>  
+<a href="kmom06"><p class="sidebar-notchosen">Kmom 6</p></a>  
+<a href="kmom10"><p class="sidebar-notchosen">Projekt</p></a>
 </div> 
 
 <div class="kmom-mainpage">
-<h1>Kursmoment 3</h1>
+<h2>Kursmoment 3</h2>
 <p>Nu har jag precis blivit färdig med kursmoment 3, vilket har gått väldigt bra i slutändan. 
 Jag stötte på en del problem specifikt med CSS-Grid, där jag hade missuppfattat några delar litegrann. Det är lätt att bli förvirrad med CSS-Grid. 
 Att jobba med Flexbox gick däremot väldigt bra.

@@ -6,7 +6,7 @@ Template: report
 
 <div class="kmom-container-grid">
 <div class="sidetitle">
-<h1>Min redovisningssida</h1>
+<h2>Min redovisningssida</h2>
 </div>
 
 <div class="kmom-box box1">

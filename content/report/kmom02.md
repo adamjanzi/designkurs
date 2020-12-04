@@ -5,17 +5,17 @@ Template: kmom
 
 <div class="kmom-container">
 <div class="kmom-sidebar">
-<a href="kmom01" class="notchosen"><p class="sidebar-choice">Kmom 1</p></a>  
-<a href="kmom02" class="chosen"><p class="sidebar-choice">Kmom 2</p></a>  
-<a href="kmom03" class="notchosen"><p class="sidebar-choice">Kmom 3</p></a>  
-<a href="kmom04" class="notchosen"><p class="sidebar-choice">Kmom 4</p></a>  
-<a href="kmom05" class="notchosen"><p class="sidebar-choice">Kmom 5</p></a>  
-<a href="kmom06" class="notchosen"><p class="sidebar-choice">Kmom 6</p></a>  
-<a href="kmom10" class="notchosen"><p class="sidebar-choice">Projekt</p></a>  
+<a href="kmom01"><p class="sidebar-notchosen">Kmom 1</p></a>  
+<a href="kmom02"><p class="sidebar-chosen">Kmom 2</p></a>  
+<a href="kmom03"><p class="sidebar-notchosen">Kmom 3</p></a>  
+<a href="kmom04"><p class="sidebar-notchosen">Kmom 4</p></a>  
+<a href="kmom05"><p class="sidebar-notchosen">Kmom 5</p></a>  
+<a href="kmom06"><p class="sidebar-notchosen">Kmom 6</p></a>  
+<a href="kmom10"><p class="sidebar-notchosen">Projekt</p></a> 
 </div> 
 
 <div class="kmom-mainpage">
-<h1>Kursmoment 2</h1>
+<h2>Kursmoment 2</h2>
 <p>Tack för ännu ett lärorikt kursmoment! Detta kursmoment var lite krångligare att hoppa in i, men när det väl var igång så kändes det lite tydligare. 
 SASS kändes väldigt oklart i början. Jag kunde inte riktigt föreställa mig vad det var och hur det bör användas på ett mer övergripande plan, men efter att ha dykt in i det så klarnade det upp. Nu ser jag helt klart hur bra det kan vara! Det känns som att det kan spara mycket tid.
 Jag är inte bekant med Node, npm eller npm scripts sedan tidigare. Detta var helt nytt för mig och precis som med SASS så var det förvirrande i början. Men när allting föll på plats så kändes detta smidigt och tryggt. 
