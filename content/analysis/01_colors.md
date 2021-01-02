@@ -1,5 +1,5 @@
 ---
-Title: Analysis
+Title: Colors
 Template: kmom
 ---
 
@@ -25,7 +25,7 @@ Template: kmom
 <h3>Resultat</h3>  
 <br>
 
-<h4>leprous.net</h4>
+<a target="_blank" href="https://www.leprous.net/"><h4>leprous.net</h4></a>
 <br>
 
 <img src="../assets/img/leprous.jpg" class="websiteimg" alt="Leprous.net">
@@ -50,7 +50,7 @@ Längs vägen så är några andra typsnitt satta för vissa specifika delar. Ti
 
 <p>Webbplatsen verkar vara ute efter en mystisk och stilren design i enhet med de visuella aspekterna av bandets senaste album. Webbplatsen är ungefär i ett permanent "darkmode". De har i mitt tycke därför valt rätt färgval och typografi för den profilen de verkar ha varit ute efter.</p>
 
-<h4>agentfresco.is</h4>
+<a target="_blank" href="https://www.agentfresco.is/"><h4>agentfresco.is</h4></a>
 <br>
 
 <img src="../assets/img/agent fresco.jpg" class="websiteimg" alt="Leprous.net">
@@ -75,7 +75,7 @@ Allting är sans-serif förutom menyvalen och sidans titel.</p>
 
 <p>Webbplatsen verkar vara ute efter en ren och tydlig design, också i enhet med de visuella aspekterna av bandets senaste album. Denna webbplatsen är väldigt ljus men samtidigt omfamnad av lite mystik, vilket går i enlighet med den uppfattade stilen av bandet, vilket är varför de i mitt tycke också har valt rätt färgval och typografi för den profilen de verkar ha varit ute efter.</p>
 
-<h4>mobius-band.com</h4>
+<a target="_blank" href="https://www.mobius-band.com/"><h4>mobius-band.com</h4></a>
 <br>
 
 <img src="../assets/img/mobius.jpg" class="websiteimg" alt="Leprous.net">
@@ -108,10 +108,10 @@ Det som är extra intressant med just accentfärgen som Agent Fresco har använt
 <p>En annan intressant observation är att accentfärgen måste vara starkt kontrasterande mot bakgrunden för att den faktiskt ska fånga uppmärksamheten. På webbplatsen för Leprous så finns väldigt ljusa gråa färger i bakgrunden, men där den vita accentfärgen landar så är bakgrunden mörkgrå eller svart. När det gäller webbplatsen för Mobius så är den svarta färgen kontrasterande mot den ljusa bakgrunden, dock så är fonten inte stark nog för att betona detta. Dessutom så skiljer sig inte de större elementen så som till exempel titlar från brödtext förutom själva storleken på texten. Accentfärgen måste alltså verkligen sticka ut på flera sätt för att den ska vara effektfull.</p>
 
 <h3>Referenser</h3>  
-<p><a href="http://www.leprous.net/">http://www.leprous.net/</a></p>
-<p><a href="https://www.agentfresco.is/">https://www.agentfresco.is/</a></p>
-<p><a href="http://www.mobius-band.com/">http://www.mobius-band.com/</a></p>
-<p><a href="https://color.adobe.com/create/color-wheel">https://color.adobe.com/create/color-wheel</a></p>
+<p><a href="https://www.leprous.net/" target="_blank">leprous.net</a></p>
+<p><a href="https://www.agentfresco.is/" target="_blank">agentfresco.is</a></p>
+<p><a href="https://www.mobius-band.com/" target="_blank">mobius-band.com</a></p>
+<p><a href="https://color.adobe.com/create/color-wheel" target="_blank">Color Wheel</a></p>
 
 <h3>Övrigt</h3>  
 
