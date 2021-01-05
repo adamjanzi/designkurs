@@ -6588,7 +6588,7 @@ body {
   text-decoration: none;
   font-size: 180%;
   font-weight: bold;
-  color: #a0e4e9;
+  color: rgba(56, 143, 150, 0.87);
 }
 
 .sidebar-chosen:hover,
@@ -6778,6 +6778,14 @@ p {
   padding: 1 0.5em;
   margin-top: 1em;
   margin-bottom: 1em;
+}
+
+.a {
+  text-decoration: none;
+}
+
+.a:visited {
+  color: #0e516b;
 }
 
 .box-text {

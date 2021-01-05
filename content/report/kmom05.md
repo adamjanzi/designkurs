@@ -17,7 +17,7 @@ Template: kmom
 <div class="kmom-mainpage">
 <h2>Kursmoment 5</h2>
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/shwx0jK_II0" frameborder="0" allowfullscreen></iframe>
+    <iframe title="VOLA - Head Mounted Sideways (Official Music Video)" src="https://www.youtube.com/embed/shwx0jK_II0" frameborder="0" allowfullscreen></iframe>
 </div>
 <p>Videon ovan är mitt bands senaste musikvideo.</p>
 <p>Detta kursmoment var intressant och utforskade något nytt som jag inte tänkt på tidigare, nämligen webbplatsers laddningstid. 

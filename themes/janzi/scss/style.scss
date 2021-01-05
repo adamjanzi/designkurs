@@ -330,6 +330,14 @@ p {
     margin-bottom: 1em;
 }
 
+.a {
+    text-decoration: none;
+}
+
+.a:visited {
+    color: $p-color;
+}
+
 .box-text {
     margin-left: 0.5em;
 }

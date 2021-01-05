@@ -28,7 +28,7 @@ Template: kmom
 <a target="_blank" href="https://www.leprous.net/"><h4>leprous.net</h4></a>
 <br>
 
-<img src="../assets/img/leprous.jpg" class="websiteimg" alt="Leprous.net">
+<img src="../assets/img/leprous.jpg" class="websiteimg" alt="leprous.net">
 
 <table style="border-collapse: collapse">
 <tr>
@@ -53,7 +53,7 @@ Längs vägen så är några andra typsnitt satta för vissa specifika delar. Ti
 <a target="_blank" href="https://www.agentfresco.is/"><h4>agentfresco.is</h4></a>
 <br>
 
-<img src="../assets/img/agent fresco.jpg" class="websiteimg" alt="Leprous.net">
+<img src="../assets/img/agent fresco.jpg" class="websiteimg" alt="agentfresco.is">
 
 <table style="border-collapse: collapse">
 <tr>
@@ -78,7 +78,7 @@ Allting är sans-serif förutom menyvalen och sidans titel.</p>
 <a target="_blank" href="https://www.mobius-band.com/"><h4>mobius-band.com</h4></a>
 <br>
 
-<img src="../assets/img/mobius.jpg" class="websiteimg" alt="Leprous.net">
+<img src="../assets/img/mobius.jpg" class="websiteimg" alt="mobius-band.com">
 
 <table style="border-collapse: collapse">
 <tr>
@@ -108,10 +108,10 @@ Det som är extra intressant med just accentfärgen som Agent Fresco har använt
 <p>En annan intressant observation är att accentfärgen måste vara starkt kontrasterande mot bakgrunden för att den faktiskt ska fånga uppmärksamheten. På webbplatsen för Leprous så finns väldigt ljusa gråa färger i bakgrunden, men där den vita accentfärgen landar så är bakgrunden mörkgrå eller svart. När det gäller webbplatsen för Mobius så är den svarta färgen kontrasterande mot den ljusa bakgrunden, dock så är fonten inte stark nog för att betona detta. Dessutom så skiljer sig inte de större elementen så som till exempel titlar från brödtext förutom själva storleken på texten. Accentfärgen måste alltså verkligen sticka ut på flera sätt för att den ska vara effektfull.</p>
 
 <h3>Referenser</h3>  
-<p><a href="https://www.leprous.net/" target="_blank">leprous.net</a></p>
-<p><a href="https://www.agentfresco.is/" target="_blank">agentfresco.is</a></p>
-<p><a href="https://www.mobius-band.com/" target="_blank">mobius-band.com</a></p>
-<p><a href="https://color.adobe.com/create/color-wheel" target="_blank">Color Wheel</a></p>
+<a class="normal-link" href="https://www.leprous.net/" target="_blank"><p>leprous.net</p></a>
+<a class="normal-link" href="https://www.agentfresco.is/" target="_blank"><p>agentfresco.is</p></a>
+<a class="normal-link" href="https://www.mobius-band.com/" target="_blank"><p>mobius-band.com</p></a>
+<a class="normal-link" href="https://color.adobe.com/create/color-wheel" target="_blank"><p>Color Wheel</p></a>
 
 <h3>Övrigt</h3>  
 

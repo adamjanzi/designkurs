@@ -330,6 +330,14 @@ p {
     margin-bottom: 1em;
 }
 
+.normal-link {
+    text-decoration: none;
+}
+
+.normal-link:visited {
+    color: $p-color;
+}
+
 .box-text {
     margin-left: 0.5em;
 }

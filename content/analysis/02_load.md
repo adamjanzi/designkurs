@@ -27,7 +27,7 @@ Template: kmom
 <a target="_blank" href="https://www.leprous.net/"><h4>leprous.net</h4></a>
 <br>
 
-<img src="../assets/img/leprous.jpg" class="websiteimg" alt="Leprous.net">
+<img src="../assets/img/leprous.jpg" class="websiteimg" alt="leprous.net">
 
 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1hAAB1juw95jCcWbEuaXxJrrRBIO7OsCi6rZhynjw-54/edit?usp=sharing"><p class="sidebar-notchosen">Raw Analysis Data</p></a> 
 
@@ -47,7 +47,7 @@ För denna webbplats så handlar det alltså för det mesta om att spara plats o
 <a target="_blank" href="https://www.agentfresco.is/"><h4>agentfresco.is</h4></a>
 <br>
 
-<img src="../assets/img/agent fresco.jpg" class="websiteimg" alt="Leprous.net">
+<img src="../assets/img/agent fresco.jpg" class="websiteimg" alt="agentfresco.is">
 
 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1izNHtU0BIe9TWgBmxaM68CLTzDeBphGc-oWsyzFHGxI/edit?usp=sharing"><p class="sidebar-notchosen">Raw Analysis Data</p></a> 
 
@@ -108,10 +108,10 @@ Leprous webbplats hamnar någonstans mittemellan. Den känns fräsch i sin desig
 <p>Överlag så överraskade det mig hur dessa webbplatser som jag hade förväntat mig att de skulle vara moderna, inte alls var moderna och hade flertalet brister. Definitivt inte det jag förväntade mig av aktuella och moderna band.</p>
 
 <h3>Referenser</h3>  
-<a href="https://www.leprous.net/" target="_blank"><p>leprous.net</p></a>
-<a href="https://www.agentfresco.is/" target="_blank"><p>agentfresco.is</p></a>
-<a href="https://www.epica.nl/home" target="_blank"><p>epica.nl/home</p></a>
-<a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank"><p>PageSpeed</p></a>
+<a class="normal-link" href="https://www.leprous.net/" target="_blank"><p>leprous.net</p></a>
+<a class="normal-link" href="https://www.agentfresco.is/" target="_blank"><p>agentfresco.is</p></a>
+<a class="normal-link" href="https://www.epica.nl/home" target="_blank"><p>epica.nl/home</p></a>
+<a class="normal-link" href="https://developers.google.com/speed/pagespeed/insights/" target="_blank"><p>PageSpeed</p></a>
 
 <h3>Övrigt</h3>  
 
